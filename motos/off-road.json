@@ -1,0 +1,18 @@
+{
+	"id": "off-road",
+	"fabricante": "Yamaha",	
+	"nombre": "Off-Road, la primera trail",
+	"descripcion": "En 1976, los japoneses de Yamaha sorprendieron con la producción de un modelo insólito, ni scrambler ni carretera: había nacido la Trail. Con la denominación de XT y motor mono-cilíndrico, 4 tiempos, de 500 cc fue, de inmediato “La Reina de África”.",
+	"imagenes": [
+		"img/motos/OffRoad-p1.jpg",
+		"img/motos/OffRoad-p2.jpg",
+		"img/motos/OffRoad-p3.jpg"
+	],
+	"motor": {
+		"tipo":"mono-cilíndrico, 4 tiempos, de 500 cc",
+		"transmision":"5 velocidades"
+	},
+	"velocidad":"275km/h",
+	"potencia": "32 CV a 6500 rpm",
+	"peso":"139 kg (326 lb)"
+}

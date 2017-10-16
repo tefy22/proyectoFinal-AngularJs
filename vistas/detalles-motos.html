@@ -1,0 +1,26 @@
+<div class="col-lg-12 col-md-12 col-sm-12" >
+	<div class="row">
+		<section class="col-lg-6 col-md-12 col-lg-12 contenidoDetalle">					
+			<h2>{{moto.nombre}}</h2>
+			<div class="row">
+				<div class="col-lg-12 thumbnails">
+					<img ng-src="{{mainImageUrl}}" class="moto"  ng-class="{active: mainImageUrl}">
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-4 col-md-3 col-sm-4" ng-repeat="img in moto.imagenes">
+					<img ng-src="{{img}}" ng-click="setImage(img)" class="img-thumbnail img-detalles">
+				</div>
+			</div>
+		</section>
+		<section class="col-lg-6 col-md-12 col-lg-12 contenidoDetalle2">
+			<p>{{moto.descripcion}}<br><br>
+				<b>Fabricante: </b>{{moto.fabricante}}<br>
+				<b>Tipo de Motor: </b>{{moto.motor.tipo}}<br>
+				<b>Transmisión: </b>{{moto.motor.transmision}}<br>
+				<b>Velocidad Máxima: </b>{{moto.velocidad}}<br>
+				<b>Potencia: </b>{{moto.potencia}}<br>
+				<b>Peso: </b>{{moto.peso}}</p>			
+		</section>
+	</div>
+</div>			

@@ -1,0 +1,18 @@
+{
+	"id": "moto-guzzi-v8",
+	"fabricante": "Moto Guzzi",	
+	"nombre": "Moto Guzzi V8",
+	"descripcion": "Una joya de los 50. Considerada como la moto más extraordinaria de la historia y la más deseada en la historia de los GP. Para que la leyenda de esta moto siga aumentando, has de saber que fue fabricada en un pequeño taller de la fábrica de Moto Guzzi por un equipo de solo 12 personas.",
+	"imagenes": [
+		"img/motos/MotoGuzziV8-p1.jpg",
+		"img/motos/MotoGuzziV8-p2.jpg",
+		"img/motos/MotoGuzziV8-p3.jpg"
+	],
+	"motor": {
+		"tipo":"499 cc (30.5 cu in) (44 x 41 mm) 4-stroke V8",
+		"transmision":"de 4, 5 o 6 velocidades"
+	},
+	"velocidad":"275km/h",
+	"potencia": "78 hp (58 kW) a 12000 rpm",
+	"peso":"148 kg (326 lb)"
+}

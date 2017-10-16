@@ -1,0 +1,18 @@
+{
+	"id": "scooter-montesa-fura",
+	"fabricante": "Leopoldo Milá",	
+	"nombre": "Scooter Montesa Fura",
+	"descripcion": "Admirador de la marca española Montesa, quedé pasmado ante este feo proyecto de scooter. A finales de los años 50, Vespa (Grupo Piaggio) ha triunfado en toda Europa y los fabricantes de motos se aprestan a hacer sus propios scooter, incluidos los socialistas alemanes, checos y rusos.",
+	"imagenes": [
+		"img/motos/scooterMontesaFura-p1.jpg",
+		"img/motos/scooterMontesaFura-p2.jpg",
+		"img/motos/scooterMontesaFura-p3.jpg"
+	],
+	"motor": {
+		"tipo":"dos tiempos monocilíndrico de 142cc",
+		"transmision":"3 velocidades"
+	},
+	"velocidad":"no se tiene registro",
+	"potencia": "8 cv de potencia.",
+	"peso":"se desconoce"
+}

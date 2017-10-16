@@ -1,0 +1,18 @@
+{
+	"id": "BMW-R90S",
+	"fabricante": "BMW",	
+	"nombre": "BMW R90S",
+	"descripcion": "Considerada una de las mejores BMW de todos los tiempos, la R90S fue presentada en el Salón de París en 1973. Solo estuvo tres años en producción y marcó un significativo giro en las dos ruedas de la marca alemana. Sus victorias en la Isla de Man y Daytona, le proporcionaron éxito comercial.",
+	"imagenes": [
+		"img/motos/bmwR90s-p1.jpg",
+		"img/motos/bmwR90s-p2.jpg",
+		"img/motos/bmwR90s-p3.jpg"
+	],
+	"motor": {
+		"tipo":"de 900 cc y 67 CV a 7 000 rpm",
+		"transmision":"5 velocidades"
+	},
+	"velocidad":"200 km/h",
+	"potencia": "60 cv",
+	"peso":"215 kg"
+}
